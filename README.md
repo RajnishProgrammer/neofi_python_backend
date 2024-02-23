@@ -51,6 +51,10 @@ To run the Django development server, use the following command:
 python manage.py runserver
 ```
 
+## For automated testing
+- In project directory run:
+``` python manage.py test ```
+
 ## Testing APIs
 
 - Navigate to the `tests` folder in the command prompt.
